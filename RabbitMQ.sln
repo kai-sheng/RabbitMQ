@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ", "RabbitMQ\RabbitMQ.csproj", "{AE435C42-ED31-4240-99B3-6F02AD114AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Core", "RabbitMQ.Core\RabbitMQ.Core.csproj", "{2277AD0A-71FE-4CDD-9721-134F1F201BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilKits", "UtilKits\UtilKits.csproj", "{0721A1D9-50F5-420A-AE52-05C055D9A06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE435C42-ED31-4240-99B3-6F02AD114AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE435C42-ED31-4240-99B3-6F02AD114AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE435C42-ED31-4240-99B3-6F02AD114AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE435C42-ED31-4240-99B3-6F02AD114AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2277AD0A-71FE-4CDD-9721-134F1F201BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2277AD0A-71FE-4CDD-9721-134F1F201BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2277AD0A-71FE-4CDD-9721-134F1F201BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2277AD0A-71FE-4CDD-9721-134F1F201BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0721A1D9-50F5-420A-AE52-05C055D9A06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0721A1D9-50F5-420A-AE52-05C055D9A06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0721A1D9-50F5-420A-AE52-05C055D9A06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0721A1D9-50F5-420A-AE52-05C055D9A06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {954F88F9-A7F7-4503-A7B7-06A97A81AB22}
+	EndGlobalSection
+EndGlobal
